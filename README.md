@@ -7,9 +7,9 @@ Postdoctoral fellow, Department of Political Science, University of Oslo
 
 [Party-Interest Group Ties and Patterns of Influence](https://doi.org/10.1177/00323217231202596)
 
-Mellom korporatisme og lobbyisme: Norske interesseorganisasjoners tilgang til politiske beslutningsprosesser
+[Mellom korporatisme og lobbyisme: Norske interesseorganisasjoners tilgang til politiske beslutningsprosesser](https://doi.org/10.18261/nost.7.4-5.3)
 
-Introducing the party-interest group relationships in contemporary democracies datasets
+[Introducing the party-interest group relationships in contemporary democracies datasets](https://doi.org/10.1177/13540688221075591)
 
 When do political parties listen to interest groups?
 
