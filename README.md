@@ -1,6 +1,8 @@
 # **MAIKEN RØED**
 
-Postdoctoral fellow, Department of Political Science, University of Oslo <img src="https://github.com/maikenro/maikenro.github.io/assets/163354535/d6682108-85d8-4eec-9a31-b5646e34a6f1.png">
+Postdoctoral fellow, Department of Political Science, University of Oslo
+
+![m](https://github.com/maikenro/maikenro.github.io/assets/163354535/00125d05-22c2-4b89-a890-ff41efe9dbdf)
 
 ### **Publications**
 [Who polarizes parliament? Partisan hostility in Norwegian legislative debates](https://doi.org/10.1177/13540688231215003)
