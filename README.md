@@ -5,7 +5,7 @@ Postdoctoral fellow, Department of Political Science, University of Oslo
 ### **Publications**
 [Who polarizes parliament? Partisan hostility in Norwegian legislative debates](https://doi.org/10.1177/13540688231215003)
 
-Party-Interest Group Ties and Patterns of Influence
+[Party-Interest Group Ties and Patterns of Influence](https://doi.org/10.1177/00323217231202596)
 
 Mellom korporatisme og lobbyisme: Norske interesseorganisasjoners tilgang til politiske beslutningsprosesser
 
