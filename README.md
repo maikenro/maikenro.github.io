@@ -2,6 +2,8 @@
 
 Postdoctoral fellow, Department of Political Science, University of Oslo
 
+<img align="right" src="https://github.com/maikenro/maikenro.github.io/blob/main/images/m.jpg" width=50% height=50%>
+
 ### **Publications**
 [Who polarizes parliament? Partisan hostility in Norwegian legislative debates](https://doi.org/10.1177/13540688231215003)
 
