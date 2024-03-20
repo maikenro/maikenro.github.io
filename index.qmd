@@ -2,9 +2,10 @@
 title: MAIKEN RØED
 ---
 
-Postdoctoral fellow, Department of Political Science, University of Oslo <img src="/images/m.jpg" alt="Beskrivelse av bildet" align="right" width="20%">
+Postdoctoral fellow, Department of Political Science, University of Oslo <img src="/images/m.jpg" align="right" width="20%"/>
 
-### **Publications**
+### PUBLICATIONS
+
 [Who polarizes parliament? Partisan hostility in Norwegian legislative debates](https://doi.org/10.1177/13540688231215003)
 
 [Party-Interest Group Ties and Patterns of Influence](https://doi.org/10.1177/00323217231202596)
@@ -22,3 +23,41 @@ Postdoctoral fellow, Department of Political Science, University of Oslo <img sr
 [Explaining Participation Bias in the European Commission's Online Consultations](https://doi.org/10.1111/jcms.12754)
 
 [State Governance or Local Agency? Determining Refugee Settlement in Norwegian Municipalities](http://urn.nb.no/URN:NBN:no-70993)
+
+### PHD THESIS
+[Interest Group Influence on Political Parties in Western Democracies](https://lup.lub.lu.se/search/files/107721723/Kappe.pdf)
+
+<a href="https://lup.lub.lu.se/search/files/107721723/Kappe.pdf">
+<img src="/images/t.jpg" width="50%" /> 
+</a>
+
+<a href="https://lup.lub.lu.se/search/files/107721723/Kappe.pdf">
+<img src="/images/d.png" width="50%" />
+</a>
+
+### OTHER
+<div class="img-with-text">
+<a href="https://www.vg.no/nyheter/meninger/i/28aq7a/paradoksal-motstand-mot-lobbyregister">
+  <img src="/images/p.jpg" width="50%">
+</a>
+<p>[Paradoksal motstand mot lobbyregister](https://www.vg.no/nyheter/meninger/i/28aq7a/paradoksal-motstand-mot-lobbyregister)
+</p>
+</div>
+
+[Norwegian political parties reuse interest group language in their policies](https://medium.com/3streams/parties-adoption-of-interest-group-input-c0c3a57aa011)
+
+[Explaining participation bias in EU online consultations](https://blogs.lse.ac.uk/europpblog/2018/09/25/explaining-participation-bias-in-eu-online-consultations/)
+
+
+<div class="img-with-text">
+<a href="https://lup.lub.lu.se/search/publication/28169857-7931-426d-b16f-6baf0c04cbbb">
+  <img src="/images/s2.png" width="50%">
+</a>
+<a href="https://lup.lub.lu.se/search/publication/28169857-7931-426d-b16f-6baf0c04cbbb">
+  <img src="/images/s.jpg" width="50%">
+</a>
+<p>[Simon Davidsson's PhD thesis cover](https://lup.lub.lu.se/search/publication/28169857-7931-426d-b16f-6baf0c04cbbb)
+</p>
+</div>
+
+
