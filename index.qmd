@@ -51,13 +51,10 @@ Postdoctoral fellow, Department of Political Science, University of Oslo <img sr
 
 <div class="img-with-text">
 <a href="https://lup.lub.lu.se/search/publication/28169857-7931-426d-b16f-6baf0c04cbbb">
-  <img src="/images/s2.png" width="50%">
+  <img src="/images/s.jpg" width="48%">
 </a>
-<a href="https://lup.lub.lu.se/search/publication/28169857-7931-426d-b16f-6baf0c04cbbb">
-  <img src="/images/s.jpg" width="50%">
-</a>
-<p>[Simon Davidsson's PhD thesis cover](https://lup.lub.lu.se/search/publication/28169857-7931-426d-b16f-6baf0c04cbbb)
-</p>
+<p>[Simon Davidsson's PhD thesis cover](https://lup.lub.lu.se/search/publication/28169857-7931-426d-b16f-6baf0c04cbbb)</p>
 </div>
+
 
 
